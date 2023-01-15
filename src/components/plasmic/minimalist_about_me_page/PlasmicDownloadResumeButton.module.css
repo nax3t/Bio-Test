@@ -1,0 +1,10 @@
+.root {
+  display: block;
+  width: 170px;
+  height: 50px;
+  max-width: 100%;
+  position: relative;
+  border-radius: 20px;
+  padding: 8px;
+  border: 1px solid #ffffff;
+}
